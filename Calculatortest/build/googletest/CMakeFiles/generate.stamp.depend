@@ -1,0 +1,12 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.19/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.19/Modules/Platform/Windows-MSVC.cmake
+C:/Users/HP/Desktop/dok/proj/Calculator/Calculatortest/build/CMakeFiles/3.19.1/CMakeCCompiler.cmake
+C:/Users/HP/Desktop/dok/proj/Calculator/Calculatortest/googletest/CMakeLists.txt

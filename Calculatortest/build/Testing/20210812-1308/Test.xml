@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20210812-1308-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.19.1"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="DESKTOP-46U2B23"
+	OSRelease=" Professional"
+	OSVersion=" (Build 19043)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="5"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="19478"
+	TotalPhysicalMemory="8073"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2594"
+	>
+	<Testing>
+		<StartDateTime>Aug 12 21:21 FLE Daylight Time</StartDateTime>
+		<StartTestTime>1628792505</StartTestTime>
+		<TestList>
+			<Test>./test/CalculatorTest</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>CalculatorTest</Name>
+			<Path>./test</Path>
+			<FullName>./test/CalculatorTest</FullName>
+			<FullCommandLine>C:\Users\HP\Desktop\dok\proj\Calculator\Calculatortest\build\test\Debug\CalculatorTest.exe</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>1.87012</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\HP\Desktop\dok\proj\Calculator\Calculatortest\build\test\Debug\CalculatorTest.exe</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJydU11PgzAUfe+vuC8mm4YKZUxn4tNMNDFxZtmexjQIdcNBL2nL1N/ui4WyRTHix32Ae07PpaeX3mkpRCpWkEep6PXhUWIO47NwrrhU4dVteMHVRmMRJrgJC4lP4TjK4jKLNMoPqeZKhyvEVcbbqZJxuKqy+2oLGsdkcb6PJUyb/X2oNMoasABUmZo3JQtnH0u4zPAhyqyAi20qUeRcGDHXTlm0xJ7V2VPt3c4MRxYwnd9AHcvWGh2vebyZFFxWjFHamFz/oISeC7nq/9aClYNGHWV98tsq1uWcWUM7MkVBPEaDo+oB58CCGjoNdGt02CAvGNJGcLyjanSwk9OAsDtmsgF5azifBn4Q+CRG1auofq0bjU5ORqdEmSu1Ix2XusOhz7wR0VGbHgxPGakNdfT669n+2G/2v4b7XQ33ralbmaJM9WuX/5b0j+b9LvPfzYTmkXQSfBafZ+7jrFFKyWzNQVa1+Aja5PV3sNRFqeE5UmYtxy1PwPzPmENq9niJOU+UFa9N6RqzpKr2XDaAh9d6at8B7QZS1g==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Aug 12 21:21 FLE Daylight Time</EndDateTime>
+		<EndTestTime>1628792507</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

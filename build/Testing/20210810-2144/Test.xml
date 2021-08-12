@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-MSBuild"
+	BuildStamp="20210810-2144-Experimental"
+	Name="DESKTOP-46U2B23"
+	Generator="ctest-3.19.1"
+	CompilerName="C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe"
+	CompilerVersion="19.0.24215.1"
+	OSName="Windows"
+	Hostname="DESKTOP-46U2B23"
+	OSRelease=" Professional"
+	OSVersion=" (Build 19043)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="5"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="18475"
+	TotalPhysicalMemory="8073"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2594"
+	>
+	<Testing>
+		<StartDateTime>Aug 11 00:44 FLE Daylight Time</StartDateTime>
+		<StartTestTime>1628631871</StartTestTime>
+		<TestList/>
+		<EndDateTime>Aug 11 00:44 FLE Daylight Time</EndDateTime>
+		<EndTestTime>1628631874</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

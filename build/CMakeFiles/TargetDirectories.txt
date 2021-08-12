@@ -1,0 +1,6 @@
+C:/Users/HP/Desktop/dok/proj/Calculator/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/HP/Desktop/dok/proj/Calculator/build/CMakeFiles/main.dir
+C:/Users/HP/Desktop/dok/proj/Calculator/build/CMakeFiles/Calculator.dir
+C:/Users/HP/Desktop/dok/proj/Calculator/build/CMakeFiles/PACKAGE.dir
+C:/Users/HP/Desktop/dok/proj/Calculator/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/HP/Desktop/dok/proj/Calculator/build/CMakeFiles/ZERO_CHECK.dir

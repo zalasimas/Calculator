@@ -1,0 +1,40 @@
+Start testing: Aug 12 02:51 FLE Daylight Time
+----------------------------------------------------------
+1/1 Testing: CalculatorTest
+1/1 Test: CalculatorTest
+Command: "C:/Users/HP/Desktop/dok/proj/Calculator/Calculatortest/build/test/Debug/CalculatorTest.exe"
+Directory: C:/Users/HP/Desktop/dok/proj/Calculator/Calculatortest/build/test
+"CalculatorTest" start time: Aug 12 02:51 FLE Daylight Time
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\HP\Desktop\dok\proj\Calculator\Calculatortest\googletest\googletest\src\gtest_main.cc
+[==========] Running 3 tests from 3 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from CalculatorTest
+[ RUN      ] CalculatorTest.CheckOperator
+[       OK ] CalculatorTest.CheckOperator (0 ms)
+[----------] 1 test from CalculatorTest (0 ms total)
+
+[----------] 1 test from CalculatorTest2
+[ RUN      ] CalculatorTest2.CheckCalculation
+12.5+12.5 = 25
+[       OK ] CalculatorTest2.CheckCalculation (0 ms)
+[----------] 1 test from CalculatorTest2 (0 ms total)
+
+[----------] 1 test from CalculatorTest3
+[ RUN      ] CalculatorTest3.CheckPriority
+[       OK ] CalculatorTest3.CheckPriority (0 ms)
+[----------] 1 test from CalculatorTest3 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 3 test suites ran. (1 ms total)
+[  PASSED  ] 3 tests.
+<end of output>
+Test time =   1.07 sec
+----------------------------------------------------------
+Test Passed.
+"CalculatorTest" end time: Aug 12 02:51 FLE Daylight Time
+"CalculatorTest" time elapsed: 00:00:01
+----------------------------------------------------------
+
+End testing: Aug 12 02:51 FLE Daylight Time

@@ -1,0 +1,44 @@
+Detecting C compiler ABI info failed to compile with the following output:
+
+
+
+Determining if the C compiler works failed with the following output:
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+
+
+
+Determining if the C compiler works failed with the following output:
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+
+
+
+Determining if the C compiler works failed with the following output:
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+
+
+
+Determining if the C compiler works failed with the following output:
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Users/HP/Desktop/dok/proj/Calculator/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe cmTC_785c4.vcxproj /p:Configuration=Debug /p:Platform=win32 /p:VisualStudioVersion=14.0 /v:m && Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_785c4.dir\Debug\\" /Fd"cmTC_785c4.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\HP\Desktop\dok\proj\Calculator\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  
+  CheckIncludeFile.c
+C:\Users\HP\Desktop\dok\proj\Calculator\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\HP\Desktop\dok\proj\Calculator\build\CMakeFiles\CMakeTmp\cmTC_785c4.vcxproj]
+
+
+

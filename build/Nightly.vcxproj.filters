@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\HP\Desktop\dok\proj\Calculator\build\CMakeFiles\ce4cc40d18fa495793283b785b99485c\Nightly.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\HP\Desktop\dok\proj\Calculator\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\HP\Desktop\dok\proj\Calculator\build\CMakeFiles\Nightly" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1A16C444-C013-3649-8B74-4B6FA5E7EE5C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
