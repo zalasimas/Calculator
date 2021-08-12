@@ -11,4 +11,4 @@ I used Cmake for the build configuration. If you want to load and open the proje
 
 I’m adding a few photos of the app.
 
-![Alt text](/Calculator/img.jpg?raw=true "Optional Title")
+![Alt text](/Calculator/Capture1.png?raw=true "Optional Title")
