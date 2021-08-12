@@ -9,6 +9,12 @@ and at the moment I think everything is fine with it.
 
 I used Cmake for the build configuration. If you want to load and open the project, I think Cmake should reparse and configure it again. 
 
-I’m adding a few photos of the app.
+I’m adding a few screenshots of the app:
 
-![Alt text](/Calculator/Capture1.png?raw=true "Optional Title")
+![Alt text](https://github.com/zalasimas/Calculator/blob/master/Capture1.PNG?raw=true "Optional Title")
+
+![Alt text](https://github.com/zalasimas/Calculator/blob/master/Capture2.PNG?raw=true "Optional Title")
+
+![Alt text](https://github.com/zalasimas/Calculator/blob/master/Capture3.PNG?raw=true "Optional Title")
+
+![Alt text](https://github.com/zalasimas/Calculator/blob/master/Capture4.PNG?raw=true "Optional Title")
